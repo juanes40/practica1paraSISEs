@@ -1,5 +1,4 @@
 ### practica1paraSISEs
-# README.md - Laboratorio de Servidor Web ESP32/DHT22
 
 Este repositorio contiene el código y los recursos necesarios para llevar a cabo el Laboratorio de Servidor Web con ESP32 y el sensor DHT22. Esta práctica consta de tres puntos principales: la configuración del servidor web en el ESP32, el despliegue de una página web para mostrar la información del sensor y la inserción de datos en una base de datos MySQL. Además, se incluyen modificaciones opcionales para adaptar la funcionalidad según el proyecto en particular.
 
