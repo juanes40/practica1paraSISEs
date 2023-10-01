@@ -29,7 +29,7 @@
         }
 
         $sql = "SELECT id, alarma, tiempo, value1 FROM sensordata ORDER BY id DESC LIMIT 1";
-        echo '<a href="/Practica1DHT11/esp-data.php">volver</a>';
+        echo '<a href="/Practica1DHT11/practica1paraSISEs/esp-data.php">volver</a>';
         if ($result = $conn->query($sql)) {
             if ($row = $result->fetch_assoc()) {
                 echo '<form method="POST">'; // Agregamos un formulario para enviar los datos
