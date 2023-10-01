@@ -41,7 +41,7 @@ echo '<table cellspacing="5" cellpadding="5">
         <td>Alarma</td>
       </tr>
       <br>
-      <a href="/Practica1DHT11/Alarma.php">Alarma</a>
+      <a href="/Practica1DHT11/practica1paraSISEs/Alarma.php">Alarma</a>
       
       ';
  
