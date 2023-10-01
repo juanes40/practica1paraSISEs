@@ -52,7 +52,4 @@ Crear una interfaz web que permita consultar y modificar un parámetro de config
 
 Si deseas contribuir o realizar mejoras a este laboratorio, siéntete libre de abrir problemas (issues) y enviar solicitudes de extracción (pull requests) en este repositorio.
 
-## Licencia
-
-Este proyecto se encuentra bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
